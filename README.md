@@ -1,23 +1,62 @@
-# 💫 About Me:
-🖥️Estou cursando Engenharia da Computação na UEFS<br>🔬Faço Iniciação científica em Humanidades Digitais<br>🖥️Estou atualmente na Liga de IA da UEFS<br>🍿Fun Fact: curto Animes
+# Bem-vindo ao Meu GitHub
 
+Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma variedade de projetos nos quais estou trabalhando, desde APIs em Node.js até aplicações web com NestJS. Sinta-se à vontade para explorar, contribuir e dar sugestões!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thiagoppsena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagoppsena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoppsena) 
+## Principais Linguagens e Tecnologias
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Aqui estão algumas das linguagens e tecnologias que utilizo com mais frequência:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Verilog](https://img.shields.io/badge/verilog-8A2BE2.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPPSena&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Node.js**: Criação de APIs robustas e escaláveis.
+- **NestJS**: Framework para construir aplicações server-side eficientes e bem estruturadas.
+- **JavaScript**: Linguagem de programação principal para desenvolvimento web.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática opcional.
+- **Cartola FC**: Otimização de times para o fantasy game de futebol.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+## Estrutura de Commits
+
+Eu gosto de manter meus commits bem organizados e descritivos. Aqui está um exemplo da estrutura que sigo:
+
+- `feat`: Introdução de novas funcionalidades.
+- `fix`: Correção de bugs.
+- `docs`: Alterações na documentação.
+- `style`: Alterações de formatação, que não afetam o código em si (espaços em branco, formatação, ponto e vírgula, etc.).
+- `refactor`: Alteração de código que não corrige um bug nem adiciona uma funcionalidade.
+- `test`: Adição ou correção de testes.
+- `chore`: Atualizações de tarefas, builds e configurações auxiliares.
+
+## Contribuindo
+
+Se você gostaria de contribuir com algum dos meus projetos, siga estes passos:
+
+1. **Fork o repositório**: Clique no botão "Fork" no topo da página deste repositório.
+2. **Clone o seu fork**: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+3. **Crie uma branch para a sua contribuição**: `git checkout -b minha-contribuicao`
+4. **Faça as suas alterações**: Adicione funcionalidades, corrija bugs, etc.
+5. **Commit suas alterações**: `git commit -m "Descrição das minhas alterações"`
+6. **Envie suas alterações para o seu fork**: `git push origin minha-contribuicao`
+7. **Crie um Pull Request**: No GitHub, vá até o seu fork e clique no botão "New Pull Request".
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser bater um papo sobre tecnologia, sinta-se à vontade para me contatar:
+
+- **Email**: seu-email@dominio.com
+- **LinkedIn**: [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
+- **Twitter**: [seu-usuario-twitter](https://twitter.com/seu-usuario-twitter)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThiagoPPSena&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Obrigado por visitar o meu GitHub! Vamos construir algo incrível juntos!
