@@ -34,9 +34,9 @@ Aqui estão algumas das linguagens e tecnologias que utilizo com mais frequênci
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&layout=compact&theme=radical)
 
 ## Contato
 
