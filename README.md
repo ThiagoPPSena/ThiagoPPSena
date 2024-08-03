@@ -39,6 +39,10 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div>
+  ![Snake animation](https://github.com/ThiagoPPSena/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 ## Contato
 
 Se você tiver alguma dúvida, sinta-se à vontade para me contatar:
