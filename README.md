@@ -30,6 +30,7 @@ Aqui estão algumas das linguagens e tecnologias que utilizo com mais frequênci
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
   <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white" alt="Octave" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
 ## Estatísticas do GitHub
@@ -37,6 +38,8 @@ Aqui estão algumas das linguagens e tecnologias que utilizo com mais frequênci
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&layout=compact&theme=radical)
+
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPPSena&theme=radical)
 
 ## Contato
 
