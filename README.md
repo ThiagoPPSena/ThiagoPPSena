@@ -21,17 +21,20 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você en
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=radical)
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPPSena&theme=radical)
+<div>
+  <a href="https://github.com/ThiagoPPSena">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contato
 
 Se você tiver alguma dúvida, sinta-se à vontade para me contatar:
 
-- **Email**: thiagopinto.sena@gmail.com
-- **LinkedIn**: [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
-- **Intagram**: [seu-usuario-twitter](https://twitter.com/seu-usuario-twitter)
+<div>
+  <a href="https://instagram.com/thiagoppsena" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ---
 
