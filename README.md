@@ -36,11 +36,7 @@
 <div>
   <a href="https://github.com/ThiagoPPSena">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoPPSena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div>
-  ![Snake animation](https://github.com/ThiagoPPSena/ThiagoPPSena/blob/output/github-contribution-grid-snake.svg)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&hide_progress=true)
 </div>
 
 ## Contato
@@ -54,4 +50,4 @@ Se você tiver alguma dúvida, sinta-se à vontade para me contatar:
 
 ---
 
-Obrigado por visitar o meu GitHub! Vamos construir algo incrível juntos!
+Obrigado por visitar o meu GitHub!
