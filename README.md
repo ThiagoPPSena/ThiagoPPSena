@@ -40,7 +40,7 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/ThiagoPPSena/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThiagoPPSena/ThiagoPPSena/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## Contato
