@@ -32,12 +32,7 @@
 </div>
 
 ## Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/ThiagoPPSena">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&layout=compact&langs_count=7&theme=dracula"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena&hide_progress=true)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena)](https://github.com/ThiagoPPSena/github-readme-stats)
 
 ## Contato
 
