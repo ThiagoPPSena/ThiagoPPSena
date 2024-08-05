@@ -32,7 +32,7 @@
 </div>
 
 ## Estatísticas do GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPPSena)](https://github.com/ThiagoPPSena/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=ThiagoPPSena)](https://github.com/ThiagoPPSena/github-readme-stats)
 
 ## Contato
 
