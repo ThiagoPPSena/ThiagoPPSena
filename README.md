@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu GitHub
 ## Me chamo Thiago e sou estudante de Engenharia de Computação
 
-Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana (UEFS). Faço parte da liga de Inteligência Artificial do ramo IEEE - UEFS. Faço iniciação científica na área de Humanidades Digitais. Aqui estão algumas curiosidades sobre mim:
+Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana (UEFS). Já fiz parte da liga de Inteligência Artificial do ramo IEEE - UEFS. Faço iniciação científica na área de Humanidades Digitais e projeto de Extensão para desenvolvimento de um aplicativo mobile para UNESCO. Aqui estão algumas curiosidades sobre mim:
 - 🌱 Atualmente estou aprendendo redes neurais artificiais.
 - 🧑🏻‍🔬 Atualmente estou no meu terceiro ano de pesquisa na área de Humanidades Digitais.
 - 👯 Estou procurando colaborar em projetos de ciência de dados, tenho muito interesse na área.
